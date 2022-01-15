@@ -11,13 +11,13 @@
 
 ### Connect with me
 
-<a href="israelndouenquiries@gmail.com" target="blank" title="israelndouenquiries@gmail.com">
+<a href="mailto:israelndouenquiries@gmail.com" target="_blank" title="israelndouenquiries@gmail.com">
 	<img width="30" height="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/gmail_icon_130929.png" alt="gmail" />
 </a>
-<a href="https://github.com/israelndou" target="blank" title="github.com | israelndou">
+<a href="https://github.com/israelndou" target="_blank" title="github.com | israelndou">
 	<img width="30" height="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/github_icon_130931.png" alt="github.com" />
 </a>
-<a href="https://twitter.com/codythetaurus" target="blank" title="twitter | @codythetaurus">
+<a href="https://twitter.com/codythetaurus" target="_blank" title="twitter | @codythetaurus">
 	<img width="30" height="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/twitter_icon_130806.png" alt="twitter" />
 </a>
 
